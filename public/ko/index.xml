@@ -16,8 +16,9 @@
       <link>http://localhost:1313/ko/about/</link>
       <pubDate>Wed, 13 Mar 2024 18:29:46 +0900</pubDate><author>me@example.com (John Doe)</author>
       <guid>http://localhost:1313/ko/about/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description>테스트요</description>
+      <content:encoded><![CDATA[<p>테스트요</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
